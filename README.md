@@ -10,7 +10,7 @@ Kotlin Mobile App that is showing Game of Thrones characters and information abo
 <img src="/images/03.png" width="30%" /> <img src="/images/04.png" width="30%" /> 
 </p>
 
-## Api Information
+## API
 The information displayed in this application was uploaded to MockAPI.
 
 - [MockAPI](https://www.mockapi.io/) is a simple tool that lets you easily mock up APIs, generate custom data, and preform operations on it using RESTful interface
