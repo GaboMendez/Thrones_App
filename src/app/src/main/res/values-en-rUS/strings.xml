@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Thrones App</string>
+    <string name="lbl_error">Request Error</string>
+    <string name="lbl_retry">Retry</string>
+    <string name="lbl_accept">"Accept "</string>
+</resources>
