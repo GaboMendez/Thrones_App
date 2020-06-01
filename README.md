@@ -1,5 +1,5 @@
 # Thrones App
-Kotlin Mobile App that is showing Game of Thrones characters and information about then
+Kotlin Mobile App that is showing Game of Thrones characters and information about them
 
 ## Screenshots
 
